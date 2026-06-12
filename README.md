@@ -14,7 +14,7 @@ This repository contains the official implementation of the paper:
 ## Project Structure
 
 DeNovoSeer/
-├── best_model/ # Pre-trained model checkpoints (seeds 42–51)
+├── model/ # Pre-trained model checkpoints (seeds 42–51)
 │ ├── best_model_seed42.pth
 │ └── ...
 ├── data/
